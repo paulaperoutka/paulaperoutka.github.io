@@ -11,10 +11,10 @@ First stage of learning how to store projects on the open source website github.
 As a test repository with zero content, there is no need for screenshots!
 
 ## How to Use?
-Example for how to structure a very simple portfolio site.
+As an example for beginners on how to structure a very simple portfolio site.
 
 ## License
-MIT © paulaperoutka
+None!
 
 
 
