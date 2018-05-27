@@ -2,7 +2,7 @@
 Creating a website to showcase my bio, my projects, and provide contact information. 
 
 ## Link
-paulaperoutka.github.io
+https://paulaperoutka.github.io/
 
 ## Motivation
 First stage of learning how to store projects on the open source website github.com
