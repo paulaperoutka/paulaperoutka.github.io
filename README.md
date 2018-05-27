@@ -8,7 +8,7 @@ https://paulaperoutka.github.io/
 After our first baby steps learning how to store projects on the open source website github.com, clone repositories to local drive, code changes, and commit back to github, this was a scaffold for our first homework showing how to store our portfolio project on github's open source site.  
 
 ## Screenshots
-As a test repository with zero content, there is no need for screenshots!
+As a test repository with zero content, there is no need for screenshots! If you are extremely curious about the one sentence of plain text displayed, feel free to visit the above link.
 
 ## How to Use?
 As an example for beginners on how to structure a very simple portfolio site.
